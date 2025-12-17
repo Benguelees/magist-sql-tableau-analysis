@@ -1,4 +1,5 @@
 Magist Marketplace Analysis
+
 This project analyzes the Brazilian e-commerce platform Magist to evaluate whether it is suitable for ENIAC, a company selling technology products.
 The analysis was conducted using SQL for data exploration and Tableau for visualization.
 Main question:
