@@ -50,5 +50,6 @@ Analyse customer behaviour over time (repeat customers)
 Compare tech vs non-tech seller performance in more detail
 Include profit margins if cost data becomes available
 Extend analysis with predictive delivery delay models
+
 📧 Contact
 Email: bengiaknergiz@gmail.com
